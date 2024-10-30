@@ -1,4 +1,4 @@
-package mutlitap.media.application.port.dto;
+package mutlitap.media.application.port.in.dto;
 
 import lombok.Builder;
 import lombok.Getter;
@@ -29,4 +29,5 @@ public class MediaAddRequestDto {
         this.mediaKind = mediaKind;
         this.mediaSeq = mediaSeq;
     }
+
 }

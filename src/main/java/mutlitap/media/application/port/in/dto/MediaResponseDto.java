@@ -1,4 +1,4 @@
-package mutlitap.media.application.port.dto;
+package mutlitap.media.application.port.in.dto;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
