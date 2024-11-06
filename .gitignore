@@ -6,8 +6,6 @@ build/
 !**/src/test/**/build/
 
 src/main/resources/application.yml
-*.yaml
-*.yml
 
 **/SwaggerConfig.class
 **/SwaggerConfig.java
